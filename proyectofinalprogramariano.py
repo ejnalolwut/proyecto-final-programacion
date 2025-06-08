@@ -1,6 +1,6 @@
 """
 Descripción: Juego Matriz Aritmética - Proyecto Final Progra
-Programador:  Mariano Norato - 202308068
+Programador:  Mariano Norato - 202574701
 Fecha: 05/06/2025
 """
 #Importando Bibliotecas
